@@ -31,3 +31,7 @@ I'm **Félix**, a Junior Software Engineer from **🇫🇷**.
 [![Website Badge](https://img.shields.io/badge/-omnitrogen-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://omnitrogen.github.io/)](https://omnitrogen.github.io/) &nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-@omnitrogen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omnitrogen)](https://twitter.com/omnitrogen) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-felixgif@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felixgif@gmail.com)](mailto:felixgif@gmail.com) &nbsp;
+
+<br>
+
+![nyan](https://c.tenor.com/dXMhBr1Y-ykAAAAi/nyan-nyan-cat.gif)
