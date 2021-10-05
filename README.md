@@ -1,11 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Félix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Félix_Defrance-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f%C3%A9lix-defrance-b84aaab6/)](https://www.linkedin.com/in/f%C3%A9lix-defrance-b84aaab6/)
+[![Website Badge](https://img.shields.io/badge/-omnitrogen-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://omnitrogen.github.io/)](https://omnitrogen.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-@omnitrogen-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omnitrogen)](https://twitter.com/omnitrogen)
+[![Gmail Badge](https://img.shields.io/badge/-felixgif@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felixgif@gmail.com)](mailto:felixgif@gmail.com)
 
 <!--
-**omnitrogen/omnitrogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔍 I’m currently **looking for a job**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
