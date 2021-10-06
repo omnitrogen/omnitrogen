@@ -8,7 +8,7 @@ I'm **Félix**, a Junior Software Engineer from **🇫🇷**.
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **anything related to Python/Javascript/React or Linux**
 - 📫 How to reach me: **[@omnitrogen](https://twitter.com/omnitrogen) or `felixgif at gmail dot com`**
-- ⚡ Fun fact: I :heart: :running: and :mountain_bicyclist: in the 🏔️
+- ⚡ Fun fact: I :heart: to :running: and :mountain_bicyclist: in the 🏔️
 
 <br/>
 
