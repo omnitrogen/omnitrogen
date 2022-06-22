@@ -1,11 +1,10 @@
 ![moutains banner](https://raw.githubusercontent.com/omnitrogen/omnitrogen.github.io/master/mont_blanc.jpg)
 
-<h1 align="center">Hi! Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi! Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40" height="40"></h1>
 
 I'm **Félix**, a Junior Software Engineer from **🇫🇷**.
 
-- 🔍 I’m currently **looking for a software engineering job in 🇫🇷 or remotly**
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Flutter and Rust**
 - 💬 Ask me about **anything related to Python/Javascript/React or Linux**
 - 📫 How to reach me: **[@omnitrogen](https://twitter.com/omnitrogen) or `felixgif at gmail dot com`**
 - ⚡ Fun fact: I :heart: to :running: and :mountain_bicyclist: in the 🏔️
