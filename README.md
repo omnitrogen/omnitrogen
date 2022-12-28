@@ -1,5 +1,3 @@
-![moutains banner](https://raw.githubusercontent.com/omnitrogen/omnitrogen.github.io/master/mont_blanc.jpg)
-
 <h1 align="center">hi! welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40" height="40"></h1>
 
 I'm **Félix**, a software engineer from **🇫🇷**.
