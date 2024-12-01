@@ -3,7 +3,7 @@
 I'm **Félix**, a software engineer from **🇫🇷**.
 
 - 🌱 I’m currently interested in **Deno**
-- 💬 Ask me about **anything related to Typescript, Flutter or Python**
+- 💬 Ask me about **anything related to Typescript, SvelteKit, Flutter or Python**
 - 📫 How to reach me: **[@omnitrogen](https://twitter.com/omnitrogen) or `felixgif at gmail dot com`**
 - ⚡ Fun fact: I :heart: to :running: and :mountain_bicyclist: in the 🏔️
 
