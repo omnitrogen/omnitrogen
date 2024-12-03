@@ -2,7 +2,7 @@
 
 I'm **Félix**, a software engineer from **🇫🇷**.
 
-- 🌱 I’m currently interested in **Deno**
+- 🌱 I’m currently interested in everything **Typescript/Javascript, including the Deno runtime**
 - 💬 Ask me about **anything related to Typescript, SvelteKit, Flutter or Python**
 - 📫 How to reach me: **[@omnitrogen](https://bsky.app/profile/omnitrogen.bsky.social) or `felixgif at gmail dot com`**
 - ⚡ Fun fact: I :heart: to :running: and :mountain_bicyclist: in the 🏔️
